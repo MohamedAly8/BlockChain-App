@@ -1,6 +1,9 @@
 // Importing tokens
+// eslint-disable-next-line no-undef
 const DappToken = artifacts.require('DappToken')
+// eslint-disable-next-line no-undef
 const DaiToken = artifacts.require('DaiToken')
+// eslint-disable-next-line no-undef
 const TokenFarm = artifacts.require('TokenFarm')
 
 // async keyword: since we want to do step by step procedures
