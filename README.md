@@ -1,3 +1,3 @@
 # Blockchain-App
 
-# Building a Deposit / Interest App using Blockchain technology
+# Building a DeFi Stake Holding Bank App using Blockchain technology
