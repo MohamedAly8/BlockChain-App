@@ -2,4 +2,4 @@
 
 # Building a DeFi Stake Holding Bank App using Blockchain technology
 
-#In progress
+## In progress
